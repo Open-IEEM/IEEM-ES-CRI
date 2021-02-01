@@ -1,0 +1,41 @@
+lucode,LULC_name,C_above,C_below,C_soil,C_dead
+1,Forest,90,0,0,0
+101,EarlySuccession Forest,42,0,0,0
+102,PoleSuccession Forest,42,0,0,0
+103,MidSuccession Forest,42,0,0,0
+104,LateSuccession Forest,42,0,0,0
+105,OldGrowth Forest ,42,0,0,0
+106,OldGrowth Forest ,42,0,0,0
+2,ForestPlantation,79,0,0,0
+201,EarlySuccession ForestPlantation,63,0,0,0
+202,PoleSuccession ForestPlantation,63,0,0,0
+203,MidSuccession ForestPlantation,63,0,0,0
+204,LateSuccession ForestPlantation,63,0,0,0
+205,OldGrowth ForestPlantation,63,0,0,0
+206,OldGrowth ForestPlantation,63,0,0,0
+3,PalmForest,56,0,0,0
+301,EarlySuccession PalmForest,12,0,0,0
+302,PoleSuccession PalmForest,12,0,0,0
+303,MidSuccession PalmForest,12,0,0,0
+304,LateSuccession PalmForest,12,0,0,0
+305,OldGrowth PalmForest ,12,0,0,0
+306,OldGrowth PalmForest ,12,0,0,0
+4,Mangrove,90,0,0,0
+401,EarlySuccession Mangrove,19,0,0,0
+402,PoleSuccession Mangrove,19,0,0,0
+403,MidSuccession Mangrove,19,0,0,0
+404,LateSuccession Mangrove,19,0,0,0
+405,OldGrowth Mangrove  ,19,0,0,0
+406,OldGrowth Mangrove  ,19,0,0,0
+5,ArtificialSurface,0,0,0,0
+6,Grassland ,4.5,0,0,0
+7,MoorAndHeathland,52,0,0,0
+8,WaterBody           ,0,0,0,0
+9,BareArea            ,1,0,0,0
+10,NoData,0,0,0,0
+11,ArableLand          ,5,0,0,0
+12,Coffee,5,0,0,0
+13,Pineapple,5,0,0,0
+14,PermanentCropland   ,5,0,0,0
+0,WaterBody           ,0,0,0,0
+15,NoData,0,0,0,0

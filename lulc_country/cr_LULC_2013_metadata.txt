@@ -1,0 +1,57 @@
+NOMBRE Coberturas vegetales de Costa Rica
+FECHA CREACIÓN Marzo 2015
+AUTOR Consorcio Agresta - UCR - UPM - DIMAP
+PROYECTO GENERATING A CONSISTENT HISTORICAL TIME SERIES OF ACTIVITY DATA FROM LAND USE CHANGE FOR THE DEVELOPMENT OF COSTA RICA'S REDD PLUS REFERENCE LEVEL
+INSTITUCIÓN: FONAFIFO - BANCO MUNDIAL
+TAMAÑO PIXEL 30X30 metros
+SIST COORDENADAS CRTM05
+LEYENDA: 
+1 = bosque
+101 = Bosque < 5 años 
+102 = Bosque 5 -10 años
+103 = Bosque 10 - 15 años
+104 = Bosque 15 - 20 años
+105 = Bosque 20 - 25 años
+106 = Bosque 25 - 30 años
+2 = Plantacion forestal
+201 = Plantación < 5 años 
+202 = Plantación 5 -10 años
+203 = Plantación 10 - 15 años
+204 = Plantación 15 - 20 años
+205 = Plantación 20 - 25 años
+206 = Plantación 25 - 30 años
+3 = Yolillal
+301 = Yolillal < 5 años 
+302 = Yolillal 5 -10 años
+303 = Yolillal 10 - 15 años
+304 = Yolillal 15 - 20 años
+305 = Yolillal 20 - 25 años
+306 = Yolillal 25 - 30 años
+4 = Manglar
+401 = Manglar < 5 años 
+402 = Manglar 5 -10 años
+403 = Manglar 10 - 15 años
+404 = Manglar 15 - 20 años
+405 = Manglar 20 - 25 años
+406 = Manglar 25 - 30 años
+5 = Urbano
+6 = Herbazal
+7 = Páramo
+8 = Agua
+9 = Suelo Desnudo
+10 = Nubes (años 1987 - 1997) / No Bosque (datos globales para los años 2001 - 2013)
+11= Cultivos Anuales
+12= Cultivo de Café
+13 = Cultivo de Piña
+14 = Otros Cultivos Permanentes
+
+DESCRIPCIÓN:
+Raster de coberturas vegetales que incorpora las clases de edad de los bosques de Costa Rica para los años 1987, 1992, 1997, 2001, 2008, 2011, 2013
+Información obtenida a partir de imágenes Landsat de los periodos:
+Ráster 1987: enero 1987 - marzo 1987
+Ráster 1992: marzo 1991 - abril 1992
+Ráster 1997: enero 1997 - marzo 1998
+Ráster 2001: enero 2000 - marzo 2001
+Ráster 2008: enero 2008 - marzo 2009
+Ráster 2011: enero 2011 - marzo 2012
+Ráster 2013: febrero 2013 - abril 2014
